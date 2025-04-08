@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1744129982 source:c:\programacion 1\progra\programacion1\encuestanacional\main.cpp
+	"encuesta.h"
+
+1744130167 c:\programacion 1\progra\programacion1\encuestanacional\include\encuesta.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1744130945 source:c:\programacion 1\progra\programacion1\encuestanacional\src\encuesta.cpp
+	"encuesta.h"
+
